@@ -131,7 +131,7 @@ INSERT INTO Actores(id, nombres, apellidos, nacimiento, imagen) VALUES (40, 'Mic
 INSERT INTO Actores(id, nombres, apellidos, nacimiento, imagen) VALUES (41, 'John Carroll', 'Lynch',                             '1963-08-01', 'john_lynch.jpg');
 INSERT INTO Actores(id, nombres, apellidos, nacimiento, imagen) VALUES (42, 'Chee', 'Thao',                                      '1952-06-05', 'chee_thao.jpg');
 INSERT INTO Actores(id, nombres, apellidos, nacimiento, imagen) VALUES (43, 'Scott', 'Eastwood',                                 '1986-03-21', 'scott_eastwood.jpg');
-INSERT INTO Actores(id, nombres, apellidos, nacimiento, imagen) VALUES (44, 'Marlon', 'Brando',                                  '1924-04-03', 'marlon_brando.jpg');
+INSERT INTO Actores(id, nombres, apellidos, nacimiento, imagen) VALUES (44, 'Marlon', 'Brando',                                  '1924-04-03', 'marlon_brando.png');
 INSERT INTO Actores(id, nombres, apellidos, nacimiento, imagen) VALUES (45, 'Alfredo James', 'Pacino',                           '1940-04-25', 'al_pacino.jpg');
 INSERT INTO Actores(id, nombres, apellidos, nacimiento, imagen) VALUES (46, 'James Edmund', 'Caan',                              '1940-03-26', 'james_caan.jpg');
 INSERT INTO Actores(id, nombres, apellidos, nacimiento, imagen) VALUES (47, 'Richard Salvatore', 'Castellano',                   '1933-09-04', 'richard_castellano.jpg');
